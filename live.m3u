@@ -835,7 +835,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/kucjWb6.jpeg" group-title="Movie Channels",Star Gold hd
 http://103.102.27.173:84/STAR-GOLD-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-1
-http://103.165.93.31:8095/colorsBanglaChinema/tracks-v1a1/mono.m3u8
+https://bdx-livestream.github.io/id34578/Colorsbanglacinema-1.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
 https://bdx-livestream.github.io/id34578/Colorsbanglacinema-2.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors-BD-cinema-sdr
