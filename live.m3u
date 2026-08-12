@@ -797,11 +797,7 @@ http://103.114.11.37:8081/BTV/index.m3u8?token=sdfgsdiufsildugfisdgfsdiuygf
 EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/WJS9M9E.png" group-title="sports",TSN-1 FiFa
 https://airtel.rkdyiptv.workers.dev/live/258.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-1
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-2
 https://flussonic.deltainfonet.com/04_Ptvsports_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/YvZdVoZ.jpeg" group-title="sports",PTV sport-3
-http://114.130.57.233:8080/PTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -1
 http://103.179.25.147:8181/TSPORTS-MADARCHOD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="100" tvg-logo="https://i.imgur.com/TUxtFxJ.jpeg" group-title="sports",Unite8 sports -2
