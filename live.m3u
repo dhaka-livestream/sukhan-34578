@@ -836,11 +836,11 @@ https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.gith
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors bangla cinema-2
 https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Colorsbanglacinema-2.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/CiZZK3n.png",[BD] colors-BD-cinema-sdr
-https://bdx-m3u8.pages.dev/colorsbdcinema-sdr.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Colorsbdcinema-sdr.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/w8wZiAX.jpeg",JalshaMovieshd-1
-https://bdx-livestream.github.io/id34578/Jalshamovieshd-1.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Jalshamovieshd-1.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/w8wZiAX.jpeg",JalshaMovieshd-2
-https://bdx-livestream.github.io/id34578/Jalshamovieshd-2.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Jalshamovieshd-2.m3u8
 #EXTINF:-1 group-title="Movie Channels" tvg-logo="https://i.imgur.com/w8wZiAX.jpeg",JalshaMovieshd-bdx
 https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Jalshamovieshd-bdx.m3u8
 
