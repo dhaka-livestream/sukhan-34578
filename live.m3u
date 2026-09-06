@@ -1022,7 +1022,7 @@ https://34578-m3u8proxy.pages.dev/zee5-discoverysd.m3u8
 
                 #========Bd ayna server=======
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-1
-https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Zeebanglahd-1.m3u8
+https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://gist.githubusercontent.com/Bts-bdxstream/be21f190bc26d2c6b7346f0cd0a9fe6b/raw/154731ee5f3e0844cb7b598c2834c37849a51636/34578-zeebanglahd-1.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-2
 https://proxy.aniksaha113.workers.dev/m3u8-proxy?url=https://bdx-livestream.github.io/id34578/Zeebanglahd-2.m3u8
 #EXTINF:-1 group-title="India Bangla ♛" tvg-logo="https://i.imgur.com/nerVeTp.jpeg",[BD] Zee Bangla HD-3
